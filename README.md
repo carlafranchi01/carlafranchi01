@@ -8,4 +8,4 @@
 
 ### Procuro estagio :)
 
-![image](https://user-images.githubusercontent.com/100912030/179171513-b6dd2f35-f3c2-4dfd-9577-79f68c63bade.png)
+![image](https://user-images.githubusercontent.com/100912030/179171804-5d9c6a38-777b-4446-8db4-bfcbb3149490.png)
