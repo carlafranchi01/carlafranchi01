@@ -2,7 +2,7 @@
 
 - 💻 Sou estudante de Analise e Desenvolvimento de Sistemas 
 - 🏢 Aluna do Senai Florianopolis
-- 📕 Aprendendo Java e Python 
+- 📕 Aprendendo JavaScript, Angular, Java, C#, .NET...
 - 📧 c.carlafranchi@gmail.com 
 - 📌 https://www.linkedin.com/in/carla-r-966458187/ 
 
