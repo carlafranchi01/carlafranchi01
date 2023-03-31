@@ -13,8 +13,8 @@
    <img align="center" alt="Carla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
    <img align="center" alt="Carla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
    <img align="center" alt="Carla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-   <img align="center" alt="Carla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  
+   <img align="center" alt="Carla" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img  align="right" height="180em" alt="Carla" src="https://i.pinimg.com/originals/0d/f6/ac/0df6acba8c5a45d333683e21dd25da2e.gif">
  </div>
  
  ##
